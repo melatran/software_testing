@@ -57,3 +57,19 @@
     * **Equivalence Partition (EP):** This technique partitions the range into equal parts/groups that tend to have the same behavior.
     * **State Transition Technique:** This method is used when software behavior changes from one state to another following particular action.
     * **Error Guessing Technique:** This is guessing/anticipating the error that may arise while doing manual testing. This is not a formal method and takes advantages of a tester's experience with the application
+- self cleaning meaning you must return test envrionment to pre test state and should not render the test envrionment unusable (be careful with configuration testing)
+- repeatable results every time no matter who tests it
+- peer review
+
+# Tools
+1. For documenting Test Cases: With tools, you can expedite Test Case creation with use of templates
+2. Execute the Test Case and Record the results: Test Case can be executed through the tools and results obtained can be easily recorded.
+3. Automate the Defect Tracking: Failed tests are automatically linked to the bug tracker, which in turn can be assigned to the developers and can be tracked by email notifications.
+4. Traceability: Requirements, Test cases, Execution of Test cases are all interlinked through the tools, and each case can be traced to each other to check test coverage.
+5. Protecting Test Cases: Test cases should be reusable and should be protected from being lost or corrupted due to poor version control. Test Case Management Tools offer features like
+
+- Naming and numbering conventions
+- Versioning
+- Read-only storage
+- Controlled access
+- Off-site backup
