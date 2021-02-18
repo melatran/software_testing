@@ -86,5 +86,7 @@ If you follow the best practices to write test cases then anyone in the team can
 
 # Resources
 https://blog.testlodge.com/how-to-write-test-cases-for-software-with-sample/
+
 https://medium.com/@appsierra/a-complete-guide-for-writing-manual-test-case-with-hacks-c0faa92669e5
+
 https://www.guru99.com/test-case.html
