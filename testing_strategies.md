@@ -62,6 +62,15 @@
 - some bugs are triggered by the perfect storm so they might be discovered in the wild (bug will slip to production)
 - write logical acceptance tests
 
+## Edgecases to Consider
+- most users don't have fast internet or laptops (perform a test with a slow connection/device)
+- this can be easily simulated with free tools
+- know your user (check what browsers are most commonly used with your app, what devices, etc. in order to better match your customer
+- always test application on multiple browsers (Chrome most common so bugs found on other browsers)
+- explore and click on every link possible
+- usability (to ensure users with visual or hearing problems have a good experience with software)
+- is it compatiable with different screen sizes and mobile screens
+
 
 # Resources
 https://www.browserstack.com/guide/software-testing-strategies-and-approaches
