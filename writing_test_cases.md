@@ -1,4 +1,6 @@
 # All About Writing Test Cases
+**Test Case:** a document that describes the process how to test an application such as ID, steps, description, assumptions, expected, actual result, tester name, pass/fail, priority, etc.
+
 - a set of actions executed to verify a particular feature or functionality of your software application
 - contains test steps, test data, precondition, postcondition developed for specific test scenario to verify any requirement
 - includes specific variables or conditions
