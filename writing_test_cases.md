@@ -5,6 +5,7 @@
 - a testing engineer can compare expected and actual results to determine whether a software product is functioning as per the requirements of the customer
 - documentation is important (simple but detailed)
 - manual testing is usually done in a word document or spreadsheet (this is different than testing using jest or Rspec)
+- [My Example](https://docs.google.com/spreadsheets/d/1Cb2ONPJOtIkW0M_E8eX1pwZgJ7KAAE0UJD0acj8qmis/edit?usp=sharing)
 
 # Writing a Test Case
 **Pre-conditions:** any assumptions that are being made or something has to happen before the event such as user can see account meaning user has be registered already
