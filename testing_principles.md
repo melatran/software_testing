@@ -12,3 +12,4 @@
 
 ## QA Methodologies
 **QA (Quality Assurance):** optimize the development and testing process, select appraoches to minimize number of errors
+-  sfSD
