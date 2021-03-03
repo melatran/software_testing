@@ -4,6 +4,11 @@
 - objectives (does the test satisfy all requirements and needs?)
 - regulations (does the software meet all regulations based on region)
 
+## Negative v Positive Testing
+- negative testing is a technique which validates that the system behaves gracefully in case of any invalid inputs
+   * ex: if user enters wrong password, message should display to alert them incorrect password/username instead of a technical message
+- positive testing validates system works as expected and the result matches the expected outcome
+
 ### BlackBox vs WhiteBox Testing
 <img width="806" alt="Screen Shot 2021-02-18 at 11 18 22 AM" src="https://user-images.githubusercontent.com/59414750/108402649-0aecce00-71db-11eb-9007-ac187e9ae3c6.png">
 
